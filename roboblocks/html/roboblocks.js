@@ -129,8 +129,8 @@
                 LANG_ADVANCED_SERIAL_SPECIAL_LINE_FEED: 'Line Feed',
                 LANG_ADVANCED_SERIAL_SPECIAL_TOOLTIP: 'Writes special Chars.',
                 //bq blocks :
-                LANG_CATEGORY_BQ: 'Octopus bloqs',
-                LANG_BQ_BAT: 'BAT - Ultrasonic Sensor',
+                LANG_CATEGORY_BQ: 'Pynchy Modules',
+                LANG_BQ_BAT: 'Ultrasonic Sensor',
                 LANG_BQ_BAT_RED_PIN: 'ECHO PIN#',
                 LANG_BQ_BAT_BLUE_PIN: 'TRIGGER PIN#',
                 LANG_BQ_BAT_TOOLTIP: 'Returns the distance measured by the ultrasonic sensor.',
@@ -148,12 +148,12 @@
                 LANG_BQ_INFRARED: 'Infrared Sensor',
                 LANG_BQ_INFRARED_PIN: 'PIN#',
                 LANG_BQ_INFRARED_TOOLTIP: 'Returns the digital value read by the infrared sensor.',
-                LANG_BQ_JOYSTICK: 'Joystick',
-                LANG_BQ_JOYSTICK_PIN_X: 'X axis PIN#',
-                LANG_BQ_JOYSTICK_PIN_Y: 'Y axis PIN#',
-                LANG_BQ_JOYSTICK_PIN_BUTTON: 'Button PIN#',
-                LANG_BQ_JOYSTICK_POSITION: 'Joystick Position',
-                LANG_BQ_JOYSTICK_TOOLTIP: 'Joystick',
+                // LANG_BQ_JOYSTICK: 'Joystick',
+                // LANG_BQ_JOYSTICK_PIN_X: 'X axis PIN#',
+                // LANG_BQ_JOYSTICK_PIN_Y: 'Y axis PIN#',
+                // LANG_BQ_JOYSTICK_PIN_BUTTON: 'Button PIN#',
+                // LANG_BQ_JOYSTICK_POSITION: 'Joystick Position',
+                // LANG_BQ_JOYSTICK_TOOLTIP: 'Joystick',
                 LANG_BQ_LED: 'LED',
                 LANG_BQ_LED_PIN: 'PIN#',
                 LANG_BQ_LED_STATE: '',
@@ -163,18 +163,18 @@
                 LANG_BQ_PHOTORESISTOR: 'Light Sensor',
                 LANG_BQ_PHOTORESISTOR_PIN: 'PIN#',
                 LANG_BQ_PHOTORESISTOR_TOOLTIP: 'Returns the analog value measured by the light sensor.',
-                LANG_BQ_PIEZO_BUZZER: 'Buzzer',
-                LANG_BQ_PIEZO_BUZZER_PIN: 'PIN#',
-                LANG_BQ_PIEZO_BUZZER_TONE: 'TONE',
-                LANG_BQ_PIEZO_BUZZER_DO: 'DO',
-                LANG_BQ_PIEZO_BUZZER_RE: 'RE',
-                LANG_BQ_PIEZO_BUZZER_MI: 'MI',
-                LANG_BQ_PIEZO_BUZZER_FA: 'FA',
-                LANG_BQ_PIEZO_BUZZER_SOL: 'SOL',
-                LANG_BQ_PIEZO_BUZZER_LA: 'LA',
-                LANG_BQ_PIEZO_BUZZER_SI: 'SI',
-                LANG_BQ_PIEZO_BUZZER_DURATION: 'Duration [ms]',
-                LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Piezo Buzzer',
+                // LANG_BQ_PIEZO_BUZZER: 'Buzzer',
+                // LANG_BQ_PIEZO_BUZZER_PIN: 'PIN#',
+                // LANG_BQ_PIEZO_BUZZER_TONE: 'TONE',
+                // LANG_BQ_PIEZO_BUZZER_DO: 'DO',
+                // LANG_BQ_PIEZO_BUZZER_RE: 'RE',
+                // LANG_BQ_PIEZO_BUZZER_MI: 'MI',
+                // LANG_BQ_PIEZO_BUZZER_FA: 'FA',
+                // LANG_BQ_PIEZO_BUZZER_SOL: 'SOL',
+                // LANG_BQ_PIEZO_BUZZER_LA: 'LA',
+                // LANG_BQ_PIEZO_BUZZER_SI: 'SI',
+                // LANG_BQ_PIEZO_BUZZER_DURATION: 'Duration [ms]',
+                // LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Piezo Buzzer',
                 LANG_BQ_PIEZO_BUZZERAV: 'Advanced Buzzer',
                 LANG_BQ_PIEZO_BUZZERAV_PIN: 'PIN#',
                 LANG_BQ_PIEZO_BUZZERAV_TONE: 'TONE',
@@ -184,22 +184,22 @@
                 LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
                 LANG_BQ_POTENTIOMETER_TOOLTIP: 'Returns the analog value measured by the potentiometer.',
                 //LCD blocks:
-                LANG_CATEGORY_LCD: 'LCD bloqs',
-                LANG_LCD_DEF: 'LCD (2x16)',
-                LANG_LCD_PINS: 'LCD Pins',
-                LANG_LCD_DEF_TOOLTIP: 'Block that defines the LCD',
-                LANG_LCD_ADVANCED_DEF: 'Advanced LCD',
-                LANG_LCD_ADVANCED_ROWS: 'Rows',
-                LANG_LCD_ADVANCED_COLUMNS: 'Columns',
-                LANG_LCD_DEF_ADVANCED_TOOLTIP: 'Block that defines the advanced LCD',
-                LANG_LCD_SETBACKLIGHT: 'LCD: setBacklight(',
-                LANG_LCD_SETBACKLIGHT_CLOSE: ')',
-                LANG_LCD_SETBACKLIGHT_TOOLTIP: 'Sets the backlight of the LCD screen.',
-                LANG_LCD_PRINT: 'LCD: print ',
-                LANG_LCD_PRINT_POSITION: 'Set text position?',
-                LANG_LCD_PRINT_TOOLTIP: 'Prints a String in the LCD at the specified position or the next available one.',
-                LANG_LCD_CLEAR: 'LCD clear',
-                LANG_LCD_CLEAR_TOOLTIP: 'LCD clear',
+                // LANG_CATEGORY_LCD: 'LCD bloqs',
+                // LANG_LCD_DEF: 'LCD (2x16)',
+                // LANG_LCD_PINS: 'LCD Pins',
+                // LANG_LCD_DEF_TOOLTIP: 'Block that defines the LCD',
+                // LANG_LCD_ADVANCED_DEF: 'Advanced LCD',
+                // LANG_LCD_ADVANCED_ROWS: 'Rows',
+                // LANG_LCD_ADVANCED_COLUMNS: 'Columns',
+                // LANG_LCD_DEF_ADVANCED_TOOLTIP: 'Block that defines the advanced LCD',
+                // LANG_LCD_SETBACKLIGHT: 'LCD: setBacklight(',
+                // LANG_LCD_SETBACKLIGHT_CLOSE: ')',
+                // LANG_LCD_SETBACKLIGHT_TOOLTIP: 'Sets the backlight of the LCD screen.',
+                // LANG_LCD_PRINT: 'LCD: print ',
+                // LANG_LCD_PRINT_POSITION: 'Set text position?',
+                // LANG_LCD_PRINT_TOOLTIP: 'Prints a String in the LCD at the specified position or the next available one.',
+                // LANG_LCD_CLEAR: 'LCD clear',
+                // LANG_LCD_CLEAR_TOOLTIP: 'LCD clear',
                 //controls blocks :
                 LANG_CATEGORY_CONTROLS: 'Control',
                 LANG_CONTROLS_BASE_DELAY_WAIT: 'Wait (ms)',
@@ -435,18 +435,18 @@
                 LANG_ZUM_PHOTORESISTOR: 'Light Sensor',
                 LANG_ZUM_PHOTORESISTOR_PIN: 'PIN#',
                 LANG_ZUM_PHOTORESISTOR_TOOLTIP: 'Returns the analog value measured by the light sensor.',
-                LANG_ZUM_PIEZO_BUZZER: 'Buzzer',
-                LANG_ZUM_PIEZO_BUZZER_PIN: 'PIN#',
-                LANG_ZUM_PIEZO_BUZZER_TONE: 'TONE',
-                LANG_ZUM_PIEZO_BUZZER_DO: 'DO',
-                LANG_ZUM_PIEZO_BUZZER_RE: 'RE',
-                LANG_ZUM_PIEZO_BUZZER_MI: 'MI',
-                LANG_ZUM_PIEZO_BUZZER_FA: 'FA',
-                LANG_ZUM_PIEZO_BUZZER_SOL: 'SOL',
-                LANG_ZUM_PIEZO_BUZZER_LA: 'LA',
-                LANG_ZUM_PIEZO_BUZZER_SI: 'SI',
-                LANG_ZUM_PIEZO_BUZZER_DURATION: 'Duration [ms]',
-                LANG_ZUM_PIEZO_BUZZER_TOOLTIP: 'Piezo Buzzer',
+                // LANG_ZUM_PIEZO_BUZZER: 'Buzzer',
+                // LANG_ZUM_PIEZO_BUZZER_PIN: 'PIN#',
+                // LANG_ZUM_PIEZO_BUZZER_TONE: 'TONE',
+                // LANG_ZUM_PIEZO_BUZZER_DO: 'DO',
+                // LANG_ZUM_PIEZO_BUZZER_RE: 'RE',
+                // LANG_ZUM_PIEZO_BUZZER_MI: 'MI',
+                // LANG_ZUM_PIEZO_BUZZER_FA: 'FA',
+                // LANG_ZUM_PIEZO_BUZZER_SOL: 'SOL',
+                // LANG_ZUM_PIEZO_BUZZER_LA: 'LA',
+                // LANG_ZUM_PIEZO_BUZZER_SI: 'SI',
+                // LANG_ZUM_PIEZO_BUZZER_DURATION: 'Duration [ms]',
+                // LANG_ZUM_PIEZO_BUZZER_TOOLTIP: 'Piezo Buzzer',
                 LANG_ZUM_PIEZO_BUZZERAV: 'Advanced Buzzer',
                 LANG_ZUM_PIEZO_BUZZERAV_PIN: 'PIN#',
                 LANG_ZUM_PIEZO_BUZZERAV_TONE: 'TONE',
@@ -456,7 +456,7 @@
                 LANG_ZUM_POTENTIOMETER_PIN: 'PIN#',
                 LANG_ZUM_POTENTIOMETER_TOOLTIP: 'Returns the analog value measured by the potentiometer.',
                 //servo blocks :
-                LANG_CATEGORY_SERVO: 'Servo',
+                LANG_CATEGORY_SERVO: 'Servos',
                 LANG_SERVO_CONT: 'Continuous rotation servo',
                 LANG_SERVO_CONT_PIN: 'PIN#',
                 LANG_SERVO_CONT_ROT: 'ROT',
@@ -560,8 +560,8 @@
                 LANG_ADVANCED_SERIAL_SPECIAL_LINE_FEED: 'Salto de línea',
                 LANG_ADVANCED_SERIAL_SPECIAL_TOOLTIP: 'Escribe caracteres especiales.',
                 //bq blocks :
-                LANG_CATEGORY_BQ: 'Octopus bloqs',
-                LANG_BQ_BAT: 'BAT - Sensor de Ultrasonidos',
+                LANG_CATEGORY_BQ: 'Módulos Pinchy',
+                LANG_BQ_BAT: 'Sensor de Ultrasonidos',
                 LANG_BQ_BAT_RED_PIN: 'ECHO PIN#',
                 LANG_BQ_BAT_BLUE_PIN: 'TRIGGER PIN#',
                 LANG_BQ_BAT_TOOLTIP: 'Devuelve la distancia medida por el sensor.',
@@ -579,12 +579,12 @@
                 LANG_BQ_INFRARED: 'Sensor infrarrojo',
                 LANG_BQ_INFRARED_PIN: 'PIN#',
                 LANG_BQ_INFRARED_TOOLTIP: 'Devuelve el valor digital medido por el sensor infrarrojo',
-                LANG_BQ_JOYSTICK: 'Joystick',
-                LANG_BQ_JOYSTICK_PIN_X: 'Eje X PIN#',
-                LANG_BQ_JOYSTICK_PIN_Y: 'Eje Y PIN#',
-                LANG_BQ_JOYSTICK_POSITION: 'Posición Joystick',
-                LANG_BQ_JOYSTICK_PIN_BUTTON: 'Pulsador PIN#',
-                LANG_BQ_JOYSTICK_TOOLTIP: 'Joystick',
+                // LANG_BQ_JOYSTICK: 'Joystick',
+                // LANG_BQ_JOYSTICK_PIN_X: 'Eje X PIN#',
+                // LANG_BQ_JOYSTICK_PIN_Y: 'Eje Y PIN#',
+                // LANG_BQ_JOYSTICK_POSITION: 'Posición Joystick',
+                // LANG_BQ_JOYSTICK_PIN_BUTTON: 'Pulsador PIN#',
+                // LANG_BQ_JOYSTICK_TOOLTIP: 'Joystick',
                 LANG_BQ_LED: 'LED',
                 LANG_BQ_LED_PIN: 'PIN#',
                 LANG_BQ_LED_STATE: '',
@@ -594,18 +594,18 @@
                 LANG_BQ_PHOTORESISTOR: 'Sensor de Luz',
                 LANG_BQ_PHOTORESISTOR_PIN: 'PIN#',
                 LANG_BQ_PHOTORESISTOR_TOOLTIP: 'Devuelve el valor analógico medido por la fotorresistencia.',
-                LANG_BQ_PIEZO_BUZZER: 'Zumbador',
-                LANG_BQ_PIEZO_BUZZER_PIN: 'PIN#',
-                LANG_BQ_PIEZO_BUZZER_TONE: 'TONO',
-                LANG_BQ_PIEZO_BUZZER_DO: 'DO',
-                LANG_BQ_PIEZO_BUZZER_RE: 'RE',
-                LANG_BQ_PIEZO_BUZZER_MI: 'MI',
-                LANG_BQ_PIEZO_BUZZER_FA: 'FA',
-                LANG_BQ_PIEZO_BUZZER_SOL: 'SOL',
-                LANG_BQ_PIEZO_BUZZER_LA: 'LA',
-                LANG_BQ_PIEZO_BUZZER_SI: 'SI',
-                LANG_BQ_PIEZO_BUZZER_DURATION: 'Duración [ms]',
-                LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Zumbador piezoeléctrico',
+                // LANG_BQ_PIEZO_BUZZER: 'Zumbador',
+                // LANG_BQ_PIEZO_BUZZER_PIN: 'PIN#',
+                // LANG_BQ_PIEZO_BUZZER_TONE: 'TONO',
+                // LANG_BQ_PIEZO_BUZZER_DO: 'DO',
+                // LANG_BQ_PIEZO_BUZZER_RE: 'RE',
+                // LANG_BQ_PIEZO_BUZZER_MI: 'MI',
+                // LANG_BQ_PIEZO_BUZZER_FA: 'FA',
+                // LANG_BQ_PIEZO_BUZZER_SOL: 'SOL',
+                // LANG_BQ_PIEZO_BUZZER_LA: 'LA',
+                // LANG_BQ_PIEZO_BUZZER_SI: 'SI',
+                // LANG_BQ_PIEZO_BUZZER_DURATION: 'Duración [ms]',
+                // LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Zumbador piezoeléctrico',
                 LANG_BQ_PIEZO_BUZZERAV: 'Zumbador avanzado',
                 LANG_BQ_PIEZO_BUZZERAV_PIN: 'PIN#',
                 LANG_BQ_PIEZO_BUZZERAV_TONE: 'TONO',
@@ -615,22 +615,22 @@
                 LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
                 LANG_BQ_POTENTIOMETER_TOOLTIP: 'Devuelve el valor analógico medido por el potenciómetro',
                 //LCD blocks:
-                LANG_CATEGORY_LCD: 'LCD bloqs',
-                LANG_LCD_DEF: 'LCD (2x16)',
-                LANG_LCD_PINS: 'Pines del LCD',
-                LANG_LCD_DEF_TOOLTIP: 'Define el LCD',
-                LANG_LCD_ADVANCED_DEF: 'LCD avanzado',
-                LANG_LCD_ADVANCED_ROWS: 'Filas',
-                LANG_LCD_ADVANCED_COLUMNS: 'Columnas',
-                LANG_LCD_DEF_ADVANCED_TOOLTIP: 'Bloque que define el LCD avanzado',
-                LANG_LCD_SETBACKLIGHT: 'LCD: ajustar la retroiluminación',
-                LANG_LCD_SETBACKLIGHT_CLOSE: '',
-                LANG_LCD_SETBACKLIGHT_TOOLTIP: 'Ajusta la retroiluminación de la pantalla LCD',
-                LANG_LCD_PRINT: 'LCD: Imprimir ',
-                LANG_LCD_PRINT_POSITION: '¿Fijar posición del texto?',
-                LANG_LCD_PRINT_TOOLTIP: 'Imprime un string en la pantalla LCD en la posición específicada o en la siguiente disponible.',
-                LANG_LCD_CLEAR: 'LCD borrar',
-                LANG_LCD_CLEAR_TOOLTIP: 'LCD: Borrar',
+                // LANG_CATEGORY_LCD: 'LCD bloqs',
+                // LANG_LCD_DEF: 'LCD (2x16)',
+                // LANG_LCD_PINS: 'Pines del LCD',
+                // LANG_LCD_DEF_TOOLTIP: 'Define el LCD',
+                // LANG_LCD_ADVANCED_DEF: 'LCD avanzado',
+                // LANG_LCD_ADVANCED_ROWS: 'Filas',
+                // LANG_LCD_ADVANCED_COLUMNS: 'Columnas',
+                // LANG_LCD_DEF_ADVANCED_TOOLTIP: 'Bloque que define el LCD avanzado',
+                // LANG_LCD_SETBACKLIGHT: 'LCD: ajustar la retroiluminación',
+                // LANG_LCD_SETBACKLIGHT_CLOSE: '',
+                // LANG_LCD_SETBACKLIGHT_TOOLTIP: 'Ajusta la retroiluminación de la pantalla LCD',
+                // LANG_LCD_PRINT: 'LCD: Imprimir ',
+                // LANG_LCD_PRINT_POSITION: '¿Fijar posición del texto?',
+                // LANG_LCD_PRINT_TOOLTIP: 'Imprime un string en la pantalla LCD en la posición específicada o en la siguiente disponible.',
+                // LANG_LCD_CLEAR: 'LCD borrar',
+                // LANG_LCD_CLEAR_TOOLTIP: 'LCD: Borrar',
                 //controls blocks :
                 LANG_CATEGORY_CONTROLS: 'Control',
                 LANG_CONTROLS_BASE_DELAY_WAIT: 'Esperar [ms]',
@@ -866,18 +866,18 @@
                 LANG_ZUM_PHOTORESISTOR: 'Sensor de Luz',
                 LANG_ZUM_PHOTORESISTOR_PIN: 'PIN#',
                 LANG_ZUM_PHOTORESISTOR_TOOLTIP: 'Devuelve el valor analógico del sensor de luz (fotorresistencia).',
-                LANG_ZUM_PIEZO_BUZZER: 'Zumbador',
-                LANG_ZUM_PIEZO_BUZZER_PIN: 'PIN#',
-                LANG_ZUM_PIEZO_BUZZER_TONE: 'TONO',
-                LANG_ZUM_PIEZO_BUZZER_DO: 'DO',
-                LANG_ZUM_PIEZO_BUZZER_RE: 'RE',
-                LANG_ZUM_PIEZO_BUZZER_MI: 'MI',
-                LANG_ZUM_PIEZO_BUZZER_FA: 'FA',
-                LANG_ZUM_PIEZO_BUZZER_SOL: 'SOL',
-                LANG_ZUM_PIEZO_BUZZER_LA: 'LA',
-                LANG_ZUM_PIEZO_BUZZER_SI: 'SI',
-                LANG_ZUM_PIEZO_BUZZER_DURATION: 'Duración [ms]',
-                LANG_ZUM_PIEZO_BUZZER_TOOLTIP: 'Zumbador piezoeléctrico',
+                // LANG_ZUM_PIEZO_BUZZER: 'Zumbador',
+                // LANG_ZUM_PIEZO_BUZZER_PIN: 'PIN#',
+                // LANG_ZUM_PIEZO_BUZZER_TONE: 'TONO',
+                // LANG_ZUM_PIEZO_BUZZER_DO: 'DO',
+                // LANG_ZUM_PIEZO_BUZZER_RE: 'RE',
+                // LANG_ZUM_PIEZO_BUZZER_MI: 'MI',
+                // LANG_ZUM_PIEZO_BUZZER_FA: 'FA',
+                // LANG_ZUM_PIEZO_BUZZER_SOL: 'SOL',
+                // LANG_ZUM_PIEZO_BUZZER_LA: 'LA',
+                // LANG_ZUM_PIEZO_BUZZER_SI: 'SI',
+                // LANG_ZUM_PIEZO_BUZZER_DURATION: 'Duración [ms]',
+                // LANG_ZUM_PIEZO_BUZZER_TOOLTIP: 'Zumbador piezoeléctrico',
                 LANG_ZUM_PIEZO_BUZZERAV: 'Zumbador avanzado',
                 LANG_ZUM_PIEZO_BUZZERAV_PIN: 'PIN#',
                 LANG_ZUM_PIEZO_BUZZERAV_TONE: 'TONO',
@@ -887,7 +887,7 @@
                 LANG_ZUM_POTENTIOMETER_PIN: 'PIN#',
                 LANG_ZUM_POTENTIOMETER_TOOLTIP: 'Potenciómetro zum.',
                 //servo blocks :
-                LANG_CATEGORY_SERVO: 'Servo',
+                LANG_CATEGORY_SERVO: 'Servos',
                 LANG_SERVO_CONT: 'Servo rotación continua',
                 LANG_SERVO_CONT_PIN: 'PIN#',
                 LANG_SERVO_CONT_ROT: 'ROT',
@@ -990,8 +990,8 @@
                 LANG_ADVANCED_SERIAL_SPECIAL_LINE_FEED: 'Lerro-jauzia',
                 LANG_ADVANCED_SERIAL_SPECIAL_TOOLTIP: 'Karaktere bereziak idatzi.',
                 //bq blocks :
-                LANG_CATEGORY_BQ: 'Octopus blokeak',
-                LANG_BQ_BAT: 'BAT - Ultrasoinuen sentsorea',
+                LANG_CATEGORY_BQ: 'Pinchy Blokeak',
+                LANG_BQ_BAT: 'Ultrasoinuen sentsorea',
                 LANG_BQ_BAT_RED_PIN: 'ECHO PIN#',
                 LANG_BQ_BAT_BLUE_PIN: 'TRIGGER PIN#',
                 LANG_BQ_BAT_TOOLTIP: 'Sentsoreak neurtutako distantzia bueltatzen du.',
@@ -1009,12 +1009,12 @@
                 LANG_BQ_INFRARED: 'Infragorrien sentsorea',
                 LANG_BQ_INFRARED_PIN: 'PIN#',
                 LANG_BQ_INFRARED_TOOLTIP: 'Infragorrien sentsoreak neurtutako balio digitala bueltatzen du',
-                LANG_BQ_JOYSTICK: 'Joystick',
-                LANG_BQ_JOYSTICK_PIN_X: 'X ardatza PIN#',
-                LANG_BQ_JOYSTICK_PIN_Y: 'Y ardatza PIN#',
-                LANG_BQ_JOYSTICK_POSITION: 'Joystick-aren posizioa',
-                LANG_BQ_JOYSTICK_PIN_BUTTON: 'PIN# pultsadorea',
-                LANG_BQ_JOYSTICK_TOOLTIP: 'Joystick',
+                // LANG_BQ_JOYSTICK: 'Joystick',
+                // LANG_BQ_JOYSTICK_PIN_X: 'X ardatza PIN#',
+                // LANG_BQ_JOYSTICK_PIN_Y: 'Y ardatza PIN#',
+                // LANG_BQ_JOYSTICK_POSITION: 'Joystick-aren posizioa',
+                // LANG_BQ_JOYSTICK_PIN_BUTTON: 'PIN# pultsadorea',
+                // LANG_BQ_JOYSTICK_TOOLTIP: 'Joystick',
                 LANG_BQ_LED: 'LED',
                 LANG_BQ_LED_PIN: 'PIN#',
                 LANG_BQ_LED_STATE: '',
@@ -1045,22 +1045,22 @@
                 LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
                 LANG_BQ_POTENTIOMETER_TOOLTIP: 'Potentziometroak neurtutako balio analogikoa bueltatzen du',
                 //LCD blocks:
-                LANG_CATEGORY_LCD: 'LCD blokeak',
-                LANG_LCD_DEF: 'LCD (2x16)',
-                LANG_LCD_PINS: 'LCD Pins',
-                LANG_LCD_DEF_TOOLTIP: 'LCDa definitu',
-                LANG_LCD_ADVANCED_DEF: 'Advanced LCD',
-                LANG_LCD_ADVANCED_ROWS: 'Rows',
-                LANG_LCD_ADVANCED_COLUMNS: 'Columns',
-                LANG_LCD_DEF_ADVANCED_TOOLTIP: 'Block that defines the advanced LCD',
-                LANG_LCD_SETBACKLIGHT: 'LCD: atzeko iluminazioa doitu',
-                LANG_LCD_SETBACKLIGHT_CLOSE: '',
-                LANG_LCD_SETBACKLIGHT_TOOLTIP: 'LCD pantailaren atzeko iluminazioa doitu',
-                LANG_LCD_PRINT: 'LCD: Inprimatu ',
-                LANG_LCD_PRINT_POSITION: 'Testuaren posizioa finkatu?',
-                LANG_LCD_PRINT_TOOLTIP: 'String bat zehaztutako posizioan edo erabilgarri dagoen hurrengoan inprimatzen du LCD pantailan.',
-                LANG_LCD_CLEAR: 'LCD ezabatu',
-                LANG_LCD_CLEAR_TOOLTIP: 'LCD: Ezabatu',
+                // LANG_CATEGORY_LCD: 'LCD blokeak',
+                // LANG_LCD_DEF: 'LCD (2x16)',
+                // LANG_LCD_PINS: 'LCD Pins',
+                // LANG_LCD_DEF_TOOLTIP: 'LCDa definitu',
+                // LANG_LCD_ADVANCED_DEF: 'Advanced LCD',
+                // LANG_LCD_ADVANCED_ROWS: 'Rows',
+                // LANG_LCD_ADVANCED_COLUMNS: 'Columns',
+                // LANG_LCD_DEF_ADVANCED_TOOLTIP: 'Block that defines the advanced LCD',
+                // LANG_LCD_SETBACKLIGHT: 'LCD: atzeko iluminazioa doitu',
+                // LANG_LCD_SETBACKLIGHT_CLOSE: '',
+                // LANG_LCD_SETBACKLIGHT_TOOLTIP: 'LCD pantailaren atzeko iluminazioa doitu',
+                // LANG_LCD_PRINT: 'LCD: Inprimatu ',
+                // LANG_LCD_PRINT_POSITION: 'Testuaren posizioa finkatu?',
+                // LANG_LCD_PRINT_TOOLTIP: 'String bat zehaztutako posizioan edo erabilgarri dagoen hurrengoan inprimatzen du LCD pantailan.',
+                // LANG_LCD_CLEAR: 'LCD ezabatu',
+                // LANG_LCD_CLEAR_TOOLTIP: 'LCD: Ezabatu',
                 //controls blocks :
                 LANG_CATEGORY_CONTROLS: 'Kontrola',
                 LANG_CONTROLS_BASE_DELAY_WAIT: 'Itxaron [ms]',
@@ -1831,58 +1831,58 @@
             return __p
         };
 
-        this["JST"]["bq_joystick"] = function(obj) {
-            obj || (obj = {});
-            var __t, __p = '',
-                __e = _.escape;
-            with(obj) {
-                __p += 'readJoystick_' +
-                    ((__t = (name)) == null ? '' : __t) +
-                    '()';
-
-            }
-            return __p
-        };
-
-        this["JST"]["bq_joystick_definitions"] = function(obj) {
-            obj || (obj = {});
-            var __t, __p = '',
-                __e = _.escape;
-            with(obj) {
-                __p += 'int * readJoystick_' +
-                    ((__t = (name)) == null ? '' : __t) +
-                    '(){\n  _internal_readJoystick_array_' +
-                    ((__t = (name)) == null ? '' : __t) +
-                    '[0]=analogRead(' +
-                    ((__t = (pinx)) == null ? '' : __t) +
-                    ');\n  _internal_readJoystick_array_' +
-                    ((__t = (name)) == null ? '' : __t) +
-                    '[1]=analogRead(' +
-                    ((__t = (piny)) == null ? '' : __t) +
-                    ');\n  _internal_readJoystick_array_' +
-                    ((__t = (name)) == null ? '' : __t) +
-                    '[2]=digitalRead(' +
-                    ((__t = (pinbutton)) == null ? '' : __t) +
-                    ');\n  return _internal_readJoystick_array_' +
-                    ((__t = (name)) == null ? '' : __t) +
-                    ';\n}';
-
-            }
-            return __p
-        };
-
-        this["JST"]["bq_joystick_setups"] = function(obj) {
-            obj || (obj = {});
-            var __t, __p = '',
-                __e = _.escape;
-            with(obj) {
-                __p += 'pinMode(' +
-                    ((__t = (pinbutton)) == null ? '' : __t) +
-                    ',INPUT_PULLUP);\n';
-
-            }
-            return __p
-        };
+        // this["JST"]["bq_joystick"] = function(obj) {
+        //     obj || (obj = {});
+        //     var __t, __p = '',
+        //         __e = _.escape;
+        //     with(obj) {
+        //         __p += 'readJoystick_' +
+        //             ((__t = (name)) == null ? '' : __t) +
+        //             '()';
+        //
+        //     }
+        //     return __p
+        // };
+        //
+        // this["JST"]["bq_joystick_definitions"] = function(obj) {
+        //     obj || (obj = {});
+        //     var __t, __p = '',
+        //         __e = _.escape;
+        //     with(obj) {
+        //         __p += 'int * readJoystick_' +
+        //             ((__t = (name)) == null ? '' : __t) +
+        //             '(){\n  _internal_readJoystick_array_' +
+        //             ((__t = (name)) == null ? '' : __t) +
+        //             '[0]=analogRead(' +
+        //             ((__t = (pinx)) == null ? '' : __t) +
+        //             ');\n  _internal_readJoystick_array_' +
+        //             ((__t = (name)) == null ? '' : __t) +
+        //             '[1]=analogRead(' +
+        //             ((__t = (piny)) == null ? '' : __t) +
+        //             ');\n  _internal_readJoystick_array_' +
+        //             ((__t = (name)) == null ? '' : __t) +
+        //             '[2]=digitalRead(' +
+        //             ((__t = (pinbutton)) == null ? '' : __t) +
+        //             ');\n  return _internal_readJoystick_array_' +
+        //             ((__t = (name)) == null ? '' : __t) +
+        //             ';\n}';
+        //
+        //     }
+        //     return __p
+        // };
+        //
+        // this["JST"]["bq_joystick_setups"] = function(obj) {
+        //     obj || (obj = {});
+        //     var __t, __p = '',
+        //         __e = _.escape;
+        //     with(obj) {
+        //         __p += 'pinMode(' +
+        //             ((__t = (pinbutton)) == null ? '' : __t) +
+        //             ',INPUT_PULLUP);\n';
+        //
+        //     }
+        //     return __p
+        // };
 
         this["JST"]["bq_led"] = function(obj) {
             obj || (obj = {});
@@ -1925,24 +1925,24 @@
             return __p
         };
 
-        this["JST"]["bq_piezo_buzzer"] = function(obj) {
-            obj || (obj = {});
-            var __t, __p = '',
-                __e = _.escape;
-            with(obj) {
-                __p += 'tone(' +
-                    ((__t = (dropdown_pin)) == null ? '' : __t) +
-                    ',' +
-                    ((__t = (dropdown_stat)) == null ? '' : __t) +
-                    ',' +
-                    ((__t = (delay_time)) == null ? '' : __t) +
-                    ');\ndelay(' +
-                    ((__t = (delay_time)) == null ? '' : __t) +
-                    ');\n';
-
-            }
-            return __p
-        };
+        // this["JST"]["bq_piezo_buzzer"] = function(obj) {
+        //     obj || (obj = {});
+        //     var __t, __p = '',
+        //         __e = _.escape;
+        //     with(obj) {
+        //         __p += 'tone(' +
+        //             ((__t = (dropdown_pin)) == null ? '' : __t) +
+        //             ',' +
+        //             ((__t = (dropdown_stat)) == null ? '' : __t) +
+        //             ',' +
+        //             ((__t = (delay_time)) == null ? '' : __t) +
+        //             ');\ndelay(' +
+        //             ((__t = (delay_time)) == null ? '' : __t) +
+        //             ');\n';
+        //
+        //     }
+        //     return __p
+        // };
 
         this["JST"]["bq_piezo_buzzerav"] = function(obj) {
             obj || (obj = {});
@@ -3755,78 +3755,78 @@
          * bq_joystick code generation
          * @return {String} Code generated with block parameters
          */
-        Blockly.Arduino.bq_joystick = function() {
-            var pinx = Blockly.Arduino.valueToCode(this, 'PINX', Blockly.Arduino.ORDER_ATOMIC);
-            var piny = Blockly.Arduino.valueToCode(this, 'PINY', Blockly.Arduino.ORDER_ATOMIC);
-            var pinbutton = Blockly.Arduino.valueToCode(this, 'PINBUTTON', Blockly.Arduino.ORDER_ATOMIC);
-            var code = '';
-
-            var a = RoboBlocks.findPinMode(pinx);
-            code += a['code'];
-            pinx = a['pin'];
-
-            a = RoboBlocks.findPinMode(piny);
-            code += a['code'];
-            piny = a['pin'];
-
-            a = RoboBlocks.findPinMode(pinbutton);
-            code += a['code'];
-            pinbutton = a['pin'];
-
-
-            var name = pinx.substring(0, 3) + '_' + piny.substring(0, 3);
-
-            Blockly.Arduino.definitions_['declare_var_internal_readJoystick_array_' + pinx] = 'int _internal_readJoystick_array_' + name + '[3];\n';
-            Blockly.Arduino.definitions_['define_joystick' + pinx] = JST['bq_joystick_definitions']({
-                'name': name,
-                'pinx': pinx,
-                'piny': piny,
-                'pinbutton': pinbutton
-            });
-            if (RoboBlocks.isVariable(pinbutton)) {
-                code += JST['bq_joystick_setups']({
-                    'pinbutton': pinbutton
-                });
-            } else {
-                Blockly.Arduino.setups_['setup_joystick_' + pinbutton] = JST['bq_joystick_setups']({
-                    'pinbutton': pinbutton
-                });
-            }
-            var array = Blockly.Arduino.valueToCode(this, 'POS', Blockly.Arduino.ORDER_ATOMIC);
-            code += JST['bq_joystick']({
-                'name': name,
-                'pinx': pinx,
-                'array': array
-            });
-            return [code, Blockly.Arduino.ORDER_ATOMIC];
-        };
-        /**
-         * bq_joystick block definition
-         * @type {Object}
-         */
-        Blockly.Blocks.bq_joystick = {
-            category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
-            tags: ['joystick'],
-            helpUrl: RoboBlocks.URL_JOYSTICK,
-            /**
-             * bq_joystick initialization
-             */
-            init: function() {
-                this.setColour(RoboBlocks.LANG_COLOUR_BQ);
-                this.appendDummyInput().appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK')).appendField(new Blockly.FieldImage('img/blocks/bqmod11.png', 209 * options.zoom, 277 * options.zoom));
-                // this.appendValueInput('POS')
-                //     .appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_POSITION'))
-                //     .setAlign(Blockly.ALIGN_RIGHT)
-                //     .setCheck(Number);
-                this.appendValueInput('PINX').appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_PIN_X')).setAlign(Blockly.ALIGN_RIGHT).setCheck(Number);
-                this.appendValueInput('PINY').appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_PIN_Y')).setAlign(Blockly.ALIGN_RIGHT).setCheck(Number);
-                this.appendValueInput('PINBUTTON').appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_PIN_BUTTON')).setAlign(Blockly.ALIGN_RIGHT).setCheck(Number);
-                this.setOutput(true, Number);
-                // this.setPreviousStatement(true, null);
-                // this.setNextStatement(true, null);
-                this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_TOOLTIP'));
-            }
-        };
+        // Blockly.Arduino.bq_joystick = function() {
+        //     var pinx = Blockly.Arduino.valueToCode(this, 'PINX', Blockly.Arduino.ORDER_ATOMIC);
+        //     var piny = Blockly.Arduino.valueToCode(this, 'PINY', Blockly.Arduino.ORDER_ATOMIC);
+        //     var pinbutton = Blockly.Arduino.valueToCode(this, 'PINBUTTON', Blockly.Arduino.ORDER_ATOMIC);
+        //     var code = '';
+        //
+        //     var a = RoboBlocks.findPinMode(pinx);
+        //     code += a['code'];
+        //     pinx = a['pin'];
+        //
+        //     a = RoboBlocks.findPinMode(piny);
+        //     code += a['code'];
+        //     piny = a['pin'];
+        //
+        //     a = RoboBlocks.findPinMode(pinbutton);
+        //     code += a['code'];
+        //     pinbutton = a['pin'];
+        //
+        //
+        //     var name = pinx.substring(0, 3) + '_' + piny.substring(0, 3);
+        //
+        //     Blockly.Arduino.definitions_['declare_var_internal_readJoystick_array_' + pinx] = 'int _internal_readJoystick_array_' + name + '[3];\n';
+        //     Blockly.Arduino.definitions_['define_joystick' + pinx] = JST['bq_joystick_definitions']({
+        //         'name': name,
+        //         'pinx': pinx,
+        //         'piny': piny,
+        //         'pinbutton': pinbutton
+        //     });
+        //     if (RoboBlocks.isVariable(pinbutton)) {
+        //         code += JST['bq_joystick_setups']({
+        //             'pinbutton': pinbutton
+        //         });
+        //     } else {
+        //         Blockly.Arduino.setups_['setup_joystick_' + pinbutton] = JST['bq_joystick_setups']({
+        //             'pinbutton': pinbutton
+        //         });
+        //     }
+        //     var array = Blockly.Arduino.valueToCode(this, 'POS', Blockly.Arduino.ORDER_ATOMIC);
+        //     code += JST['bq_joystick']({
+        //         'name': name,
+        //         'pinx': pinx,
+        //         'array': array
+        //     });
+        //     return [code, Blockly.Arduino.ORDER_ATOMIC];
+        // };
+        // /**
+        //  * bq_joystick block definition
+        //  * @type {Object}
+        //  */
+        // Blockly.Blocks.bq_joystick = {
+        //     category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
+        //     tags: ['joystick'],
+        //     helpUrl: RoboBlocks.URL_JOYSTICK,
+        //     /**
+        //      * bq_joystick initialization
+        //      */
+        //     init: function() {
+        //         this.setColour(RoboBlocks.LANG_COLOUR_BQ);
+        //         this.appendDummyInput().appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK')).appendField(new Blockly.FieldImage('img/blocks/bqmod11.png', 209 * options.zoom, 277 * options.zoom));
+        //         // this.appendValueInput('POS')
+        //         //     .appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_POSITION'))
+        //         //     .setAlign(Blockly.ALIGN_RIGHT)
+        //         //     .setCheck(Number);
+        //         this.appendValueInput('PINX').appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_PIN_X')).setAlign(Blockly.ALIGN_RIGHT).setCheck(Number);
+        //         this.appendValueInput('PINY').appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_PIN_Y')).setAlign(Blockly.ALIGN_RIGHT).setCheck(Number);
+        //         this.appendValueInput('PINBUTTON').appendField(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_PIN_BUTTON')).setAlign(Blockly.ALIGN_RIGHT).setCheck(Number);
+        //         this.setOutput(true, Number);
+        //         // this.setPreviousStatement(true, null);
+        //         // this.setNextStatement(true, null);
+        //         this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_JOYSTICK_TOOLTIP'));
+        //     }
+        // };
         // Source: src/blocks/bq_led/bq_led.js
         /* global Blockly, options, JST, RoboBlocks */
         /* jshint sub:true */
@@ -3935,78 +3935,78 @@
         /* global Blockly, options, JST, RoboBlocks */
         /* jshint sub:true */
 
-        /**
-         * bq_piezo_buzzer code generation
-         * @return {String} Code generated with block parameters
-         */
-        Blockly.Arduino.bq_piezo_buzzer = function() {
-            var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC) || '';
-            var dropdown_stat = this.getFieldValue('STAT') || '';
-            var delay_time = Blockly.Arduino.valueToCode(this, 'DURA', Blockly.Arduino.ORDER_ATOMIC) || '';
-            var code = '';
-            var a = RoboBlocks.findPinMode(dropdown_pin);
-            code += a['code'];
-            dropdown_pin = a['pin'];
+        // /**
+        //  * bq_piezo_buzzer code generation
+        //  * @return {String} Code generated with block parameters
+        //  */
+        // Blockly.Arduino.bq_piezo_buzzer = function() {
+        //     var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC) || '';
+        //     var dropdown_stat = this.getFieldValue('STAT') || '';
+        //     var delay_time = Blockly.Arduino.valueToCode(this, 'DURA', Blockly.Arduino.ORDER_ATOMIC) || '';
+        //     var code = '';
+        //     var a = RoboBlocks.findPinMode(dropdown_pin);
+        //     code += a['code'];
+        //     dropdown_pin = a['pin'];
+        //
+        //     a = RoboBlocks.findPinMode(delay_time);
+        //     code += a['code'];
+        //     delay_time = a['pin'];
+        //
+        //
+        //     code += JST['bq_piezo_buzzer']({
+        //         'dropdown_pin': dropdown_pin,
+        //         'dropdown_stat': dropdown_stat,
+        //         'delay_time': delay_time
+        //     });
+        //
+        //     return code;
+        // };
 
-            a = RoboBlocks.findPinMode(delay_time);
-            code += a['code'];
-            delay_time = a['pin'];
 
-
-            code += JST['bq_piezo_buzzer']({
-                'dropdown_pin': dropdown_pin,
-                'dropdown_stat': dropdown_stat,
-                'delay_time': delay_time
-            });
-
-            return code;
-        };
-
-
-        /**
-         * bq_piezo_buzzer block definition
-         * @type {Object}
-         */
-        Blockly.Blocks.bq_piezo_buzzer = {
-            category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
-            tags: ['buzzer'],
-            helpUrl: RoboBlocks.URL_BUZZER,
-            /**
-             * bq_piezo_buzzer initialization
-             */
-            init: function() {
-                this.setColour(RoboBlocks.LANG_COLOUR_BQ);
-                this.appendDummyInput('')
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER'))
-                    .appendField(new Blockly.FieldImage('img/blocks/bqmod07.png', 208 * options.zoom, 140 * options.zoom));
-                this.appendValueInput('PIN')
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_PIN'))
-                    .setCheck(Number)
-                    .setAlign(Blockly.ALIGN_RIGHT);
-
-                this.appendDummyInput('')
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_TONE'))
-                    .appendField(new Blockly.FieldDropdown([
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_DO') || 'DO', '261'],
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_RE') || 'RE', '293'],
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_MI') || 'MI', '329'],
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_FA') || 'FA', '349'],
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_SOL') || 'SOL', '392'],
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_LA') || 'LA', '440'],
-                        [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_SI') || 'SI', '494']
-                    ]), 'STAT') //523
-                    .setAlign(Blockly.ALIGN_RIGHT);
-
-                this.appendValueInput('DURA', Number)
-                    .setCheck(Number)
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_DURATION'));
-
-                this.setPreviousStatement(true, null);
-                this.setNextStatement(true, null);
-                this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_TOOLTIP'));
-            }
-        };
+        // /**
+        //  * bq_piezo_buzzer block definition
+        //  * @type {Object}
+        //  */
+        // Blockly.Blocks.bq_piezo_buzzer = {
+        //     category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
+        //     tags: ['buzzer'],
+        //     helpUrl: RoboBlocks.URL_BUZZER,
+        //     /**
+        //      * bq_piezo_buzzer initialization
+        //      */
+        //     init: function() {
+        //         this.setColour(RoboBlocks.LANG_COLOUR_BQ);
+        //         this.appendDummyInput('')
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER'))
+        //             .appendField(new Blockly.FieldImage('img/blocks/bqmod07.png', 208 * options.zoom, 140 * options.zoom));
+        //         this.appendValueInput('PIN')
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_PIN'))
+        //             .setCheck(Number)
+        //             .setAlign(Blockly.ALIGN_RIGHT);
+        //
+        //         this.appendDummyInput('')
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_TONE'))
+        //             .appendField(new Blockly.FieldDropdown([
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_DO') || 'DO', '261'],
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_RE') || 'RE', '293'],
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_MI') || 'MI', '329'],
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_FA') || 'FA', '349'],
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_SOL') || 'SOL', '392'],
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_LA') || 'LA', '440'],
+        //                 [RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_SI') || 'SI', '494']
+        //             ]), 'STAT') //523
+        //             .setAlign(Blockly.ALIGN_RIGHT);
+        //
+        //         this.appendValueInput('DURA', Number)
+        //             .setCheck(Number)
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_DURATION'));
+        //
+        //         this.setPreviousStatement(true, null);
+        //         this.setNextStatement(true, null);
+        //         this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_PIEZO_BUZZER_TOOLTIP'));
+        //     }
+        // };
 
 
         // Source: src/blocks/bq_piezo_buzzerav/bq_piezo_buzzerav.js
@@ -7171,8 +7171,8 @@
                     returnType = RoboBlocks.variables[returnValue][0];
                 } else if ((returnValue.search('analogRead') >= 0) || (returnValue.search('digitalRead') >= 0) || (returnValue.search('Distanc') >= 0) || (!isNaN(parseFloat(returnValue)) || (returnValue.search('random') >= 0)) || (returnValue.search('map') >= 0) || returnValue.search('\\[') >= 0 || (returnValue.search('abs') >= 0) || (returnValue.search('sqrt') >= 0) || (returnValue.search('log') >= 0) || (returnValue.search('log') >= 0) || (returnValue.search('exp') >= 0) || (returnValue.search('pow') >= 0)) {
                     returnType = 'int';
-                } else if (returnValue.search('readJoystick') >= 0 || returnValue[0] === '{') {
-                    returnType = 'int *';
+                // } else if (returnValue.search('readJoystick') >= 0 || returnValue[0] === '{') {
+                //     returnType = 'int *';
                 } else {
                     returnType = 'void';
                 }
@@ -8400,10 +8400,10 @@
                 varType = RoboBlocks.variables[varValue][0];
                 Blockly.Arduino.definitions_['declare_var' + varName] = varType + ' ' + varName + ';\n';
                 Blockly.Arduino.setups_['define_var' + varName] = varName + '=' + varValue + ';\n';
-            } else if (varValue.search('readJoystick') >= 0) {
-                varType = 'int *';
-                Blockly.Arduino.definitions_['declare_var' + varName] = varType + varName + '=' + '(int*)malloc(3*sizeof(int));\n';
-                Blockly.Arduino.setups_['define_var' + varName] = varName + '=' + varValue + ';\n';
+            // } else if (varValue.search('readJoystick') >= 0) {
+            //     varType = 'int *';
+            //     Blockly.Arduino.definitions_['declare_var' + varName] = varType + varName + '=' + '(int*)malloc(3*sizeof(int));\n';
+            //     Blockly.Arduino.setups_['define_var' + varName] = varName + '=' + varValue + ';\n';
             } else if ((varValue.search('analogRead') >= 0) || (varValue.search('digitalRead') >= 0) || (varValue.search('Distanc') >= 0) || (!isNaN(parseFloat(varValue)) || (varValue.search('random') >= 0)) || (varValue.search('map') >= 0) || varValue.search('\\[') >= 0 || (varValue.search('abs') >= 0) || (varValue.search('sqrt') >= 0) || (varValue.search('log') >= 0) || (varValue.search('log') >= 0) || (varValue.search('exp') >= 0) || (varValue.search('pow') >= 0) || (varValue.search('\\+'))) {
                 varType = 'int';
                 if (!isNaN(parseFloat(varValue))) {
@@ -8681,10 +8681,10 @@
             } else if (this.isVariable(varValue)) {
                 varType = RoboBlocks.variables[varValue][0];
                 code += varType + ' ' + varName + '=' + varValue + ';\n';
-            } else if (varValue.search('readJoystick') >= 0) {
-                varType = 'int *';
-                code += varType + varName + '=' + '(int*)malloc(3*sizeof(int));\n';
-                code += varName + '=' + varValue + ';\n';
+            // } else if (varValue.search('readJoystick') >= 0) {
+            //     varType = 'int *';
+            //     code += varType + varName + '=' + '(int*)malloc(3*sizeof(int));\n';
+            //     code += varName + '=' + varValue + ';\n';
             } else if ((varValue.search('analogRead') >= 0) || (varValue.search('digitalRead') >= 0) || (varValue.search('Distanc') >= 0) || (!isNaN(parseFloat(varValue))) || (varValue.search('random') >= 0) || (varValue.search('map') >= 0) || varValue.search('\\[') >= 0 || (varValue.search('abs') >= 0) || (varValue.search('sqrt') >= 0) || (varValue.search('log') >= 0) || (varValue.search('exp') >= 0) || (varValue.search('pow') >= 0) || (varValue.search('\\+'))) {
                 varType = 'int';
                 code += varType + ' ' + varName + sufix + '=' + varValue + ';\n';
@@ -9154,69 +9154,69 @@
          * zum_piezo_buzzer code generation
          * @return {String} Code generated with block parameters
          */
-        Blockly.Arduino.zum_piezo_buzzer = function() {
-            var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC) || '';
-            var dropdown_stat = this.getFieldValue('STAT');
-            var delay_time = Blockly.Arduino.valueToCode(this, 'DURA', Blockly.Arduino.ORDER_ATOMIC);
-
-            var code = '';
-            var a = RoboBlocks.findPinMode(dropdown_pin);
-            code += a['code'];
-            dropdown_pin = a['pin'];
-
-            a = RoboBlocks.findPinMode(delay_time);
-            code += a['code'];
-            delay_time = a['pin'];
-
-            code += JST['zum_piezo_buzzer']({
-                'dropdown_pin': dropdown_pin,
-                'dropdown_stat': dropdown_stat,
-                'delay_time': delay_time
-            });
-
-            return code;
-        };
+        // Blockly.Arduino.zum_piezo_buzzer = function() {
+        //     var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC) || '';
+        //     var dropdown_stat = this.getFieldValue('STAT');
+        //     var delay_time = Blockly.Arduino.valueToCode(this, 'DURA', Blockly.Arduino.ORDER_ATOMIC);
+        //
+        //     var code = '';
+        //     var a = RoboBlocks.findPinMode(dropdown_pin);
+        //     code += a['code'];
+        //     dropdown_pin = a['pin'];
+        //
+        //     a = RoboBlocks.findPinMode(delay_time);
+        //     code += a['code'];
+        //     delay_time = a['pin'];
+        //
+        //     code += JST['zum_piezo_buzzer']({
+        //         'dropdown_pin': dropdown_pin,
+        //         'dropdown_stat': dropdown_stat,
+        //         'delay_time': delay_time
+        //     });
+        //
+        //     return code;
+        // };
 
 
         /**
          * zum_piezo_buzzer block definition
          * @type {Object}
          */
-        Blockly.Blocks.zum_piezo_buzzer = {
-            category: RoboBlocks.locales.getKey('LANG_CATEGORY_ZUM'),
-            tags: ['buzzer'],
-            helpUrl: RoboBlocks.URL_BUZZER,
-            /**
-             * zum_piezo_buzzer initialization
-             */
-            init: function() {
-                this.setColour(RoboBlocks.LANG_COLOUR_ZUM);
-                this.appendValueInput('PIN')
-                    .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER'))
-                    .appendField(new Blockly.FieldImage('img/blocks/zum01.png', 208 * options.zoom, 140 * options.zoom))
-                    .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_PIN'));
-                this.appendDummyInput()
-                    .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_TONE'))
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(new Blockly.FieldDropdown([
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_DO') || 'DO', '261'],
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_RE') || 'RE', '293'],
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_MI') || 'MI', '329'],
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_FA') || 'FA', '349'],
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_SOL') || 'SOL', '392'],
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_LA') || 'LA', '440'],
-                        [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_SI') || 'SI', '494']
-                    ]), 'STAT'); //523
-                this.appendValueInput('DURA', Number)
-                    .setCheck(Number)
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_DURATION'));
-
-                this.setPreviousStatement(true, null);
-                this.setNextStatement(true, null);
-                this.setTooltip(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_TOOLTIP'));
-            }
-        };
+        // Blockly.Blocks.zum_piezo_buzzer = {
+        //     category: RoboBlocks.locales.getKey('LANG_CATEGORY_ZUM'),
+        //     tags: ['buzzer'],
+        //     helpUrl: RoboBlocks.URL_BUZZER,
+        //     /**
+        //      * zum_piezo_buzzer initialization
+        //      */
+        //     init: function() {
+        //         this.setColour(RoboBlocks.LANG_COLOUR_ZUM);
+        //         this.appendValueInput('PIN')
+        //             .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER'))
+        //             .appendField(new Blockly.FieldImage('img/blocks/zum01.png', 208 * options.zoom, 140 * options.zoom))
+        //             .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_PIN'));
+        //         this.appendDummyInput()
+        //             .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_TONE'))
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(new Blockly.FieldDropdown([
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_DO') || 'DO', '261'],
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_RE') || 'RE', '293'],
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_MI') || 'MI', '329'],
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_FA') || 'FA', '349'],
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_SOL') || 'SOL', '392'],
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_LA') || 'LA', '440'],
+        //                 [RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_SI') || 'SI', '494']
+        //             ]), 'STAT'); //523
+        //         this.appendValueInput('DURA', Number)
+        //             .setCheck(Number)
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_DURATION'));
+        //
+        //         this.setPreviousStatement(true, null);
+        //         this.setNextStatement(true, null);
+        //         this.setTooltip(RoboBlocks.locales.getKey('LANG_ZUM_PIEZO_BUZZER_TOOLTIP'));
+        //     }
+        // };
 
         // Source: src/blocks/zum_piezo_buzzerav/zum_piezo_buzzerav.js
         /* global Blockly, options, JST, RoboBlocks */
