@@ -137,14 +137,14 @@
                 LANG_BQ_BUTTON: 'Button',
                 LANG_BQ_BUTTON_PIN: 'PIN#',
                 LANG_BQ_BUTTON_TOOLTIP: 'Button',
-                LANG_BQ_BUTTONS: 'Button Pad',
-                LANG_BQ_BUTTONS_PIN: 'PIN#',
-                LANG_BQ_BUTTONS_BUTTON_A: 'Button #A',
-                LANG_BQ_BUTTONS_BUTTON_B: 'Button #B',
-                LANG_BQ_BUTTONS_BUTTON_C: 'Button #C',
-                LANG_BQ_BUTTONS_BUTTON_D: 'Button #D',
-                LANG_BQ_BUTTONS_BUTTON_E: 'Button #E',
-                LANG_BQ_BUTTONS_TOOLTIP: 'Button Pad',
+                // LANG_BQ_BUTTONS: 'Button Pad',
+                // LANG_BQ_BUTTONS_PIN: 'PIN#',
+                // LANG_BQ_BUTTONS_BUTTON_A: 'Button #A',
+                // LANG_BQ_BUTTONS_BUTTON_B: 'Button #B',
+                // LANG_BQ_BUTTONS_BUTTON_C: 'Button #C',
+                // LANG_BQ_BUTTONS_BUTTON_D: 'Button #D',
+                // LANG_BQ_BUTTONS_BUTTON_E: 'Button #E',
+                // LANG_BQ_BUTTONS_TOOLTIP: 'Button Pad',
                 LANG_BQ_INFRARED: 'Infrared Sensor',
                 LANG_BQ_INFRARED_PIN: 'PIN#',
                 LANG_BQ_INFRARED_TOOLTIP: 'Returns the digital value read by the infrared sensor.',
@@ -568,14 +568,14 @@
                 LANG_BQ_BUTTON: 'Botón',
                 LANG_BQ_BUTTON_PIN: 'PIN#',
                 LANG_BQ_BUTTON_TOOLTIP: 'Botón',
-                LANG_BQ_BUTTONS: 'Botonera',
-                LANG_BQ_BUTTONS_PIN: 'PIN#',
-                LANG_BQ_BUTTONS_BUTTON_A: 'Botón #A',
-                LANG_BQ_BUTTONS_BUTTON_B: 'Botón #B',
-                LANG_BQ_BUTTONS_BUTTON_C: 'Botón #C',
-                LANG_BQ_BUTTONS_BUTTON_D: 'Botón #D',
-                LANG_BQ_BUTTONS_BUTTON_E: 'Botón #E',
-                LANG_BQ_BUTTONS_TOOLTIP: 'Botonera',
+                // LANG_BQ_BUTTONS: 'Botonera',
+                // LANG_BQ_BUTTONS_PIN: 'PIN#',
+                // LANG_BQ_BUTTONS_BUTTON_A: 'Botón #A',
+                // LANG_BQ_BUTTONS_BUTTON_B: 'Botón #B',
+                // LANG_BQ_BUTTONS_BUTTON_C: 'Botón #C',
+                // LANG_BQ_BUTTONS_BUTTON_D: 'Botón #D',
+                // LANG_BQ_BUTTONS_BUTTON_E: 'Botón #E',
+                // LANG_BQ_BUTTONS_TOOLTIP: 'Botonera',
                 LANG_BQ_INFRARED: 'Sensor infrarrojo',
                 LANG_BQ_INFRARED_PIN: 'PIN#',
                 LANG_BQ_INFRARED_TOOLTIP: 'Devuelve el valor digital medido por el sensor infrarrojo',
@@ -606,14 +606,14 @@
                 // LANG_BQ_PIEZO_BUZZER_SI: 'SI',
                 // LANG_BQ_PIEZO_BUZZER_DURATION: 'Duración [ms]',
                 // LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Zumbador piezoeléctrico',
-                LANG_BQ_PIEZO_BUZZERAV: 'Zumbador avanzado',
+                LANG_BQ_PIEZO_BUZZERAV: 'Zumbador',
                 LANG_BQ_PIEZO_BUZZERAV_PIN: 'PIN#',
                 LANG_BQ_PIEZO_BUZZERAV_TONE: 'TONO',
                 LANG_BQ_PIEZO_BUZZERAV_DURATION: 'Duración [ms]',
-                LANG_BQ_PIEZO_BUZZERAV_TOOLTIP: 'Zumbador avanzado',
-                LANG_BQ_POTENTIOMETER: 'Potenciómetro',
-                LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
-                LANG_BQ_POTENTIOMETER_TOOLTIP: 'Devuelve el valor analógico medido por el potenciómetro',
+                LANG_BQ_PIEZO_BUZZERAV_TOOLTIP: 'Zumbador',
+                // LANG_BQ_POTENTIOMETER: 'Potenciómetro',
+                // LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
+                // LANG_BQ_POTENTIOMETER_TOOLTIP: 'Devuelve el valor analógico medido por el potenciómetro',
                 //LCD blocks:
                 // LANG_CATEGORY_LCD: 'LCD bloqs',
                 // LANG_LCD_DEF: 'LCD (2x16)',
@@ -883,9 +883,9 @@
                 LANG_ZUM_PIEZO_BUZZERAV_TONE: 'TONO',
                 LANG_ZUM_PIEZO_BUZZERAV_DURATION: 'Duración [ms]',
                 LANG_ZUM_PIEZO_BUZZERAV_TOOLTIP: 'Zumbador piezoeléctrico avanzado.',
-                LANG_ZUM_POTENTIOMETER: 'Potenciómetro',
-                LANG_ZUM_POTENTIOMETER_PIN: 'PIN#',
-                LANG_ZUM_POTENTIOMETER_TOOLTIP: 'Potenciómetro zum.',
+                // LANG_ZUM_POTENTIOMETER: 'Potenciómetro',
+                // LANG_ZUM_POTENTIOMETER_PIN: 'PIN#',
+                // LANG_ZUM_POTENTIOMETER_TOOLTIP: 'Potenciómetro zum.',
                 //servo blocks :
                 LANG_CATEGORY_SERVO: 'Servos',
                 LANG_SERVO_CONT: 'Servo rotación continua',
@@ -998,14 +998,14 @@
                 LANG_BQ_BUTTON: 'Botoia',
                 LANG_BQ_BUTTON_PIN: 'PIN#',
                 LANG_BQ_BUTTON_TOOLTIP: 'Botoia',
-                LANG_BQ_BUTTONS: 'Botoi-multzoa',
-                LANG_BQ_BUTTONS_PIN: 'PIN#',
-                LANG_BQ_BUTTONS_BUTTON_A: '#A botoia',
-                LANG_BQ_BUTTONS_BUTTON_B: '#B botoia',
-                LANG_BQ_BUTTONS_BUTTON_C: '#C botoia',
-                LANG_BQ_BUTTONS_BUTTON_D: '#D botoia',
-                LANG_BQ_BUTTONS_BUTTON_E: '#E botoia',
-                LANG_BQ_BUTTONS_TOOLTIP: 'Botoi-multzoa',
+                // LANG_BQ_BUTTONS: 'Botoi-multzoa',
+                // LANG_BQ_BUTTONS_PIN: 'PIN#',
+                // LANG_BQ_BUTTONS_BUTTON_A: '#A botoia',
+                // LANG_BQ_BUTTONS_BUTTON_B: '#B botoia',
+                // LANG_BQ_BUTTONS_BUTTON_C: '#C botoia',
+                // LANG_BQ_BUTTONS_BUTTON_D: '#D botoia',
+                // LANG_BQ_BUTTONS_BUTTON_E: '#E botoia',
+                // LANG_BQ_BUTTONS_TOOLTIP: 'Botoi-multzoa',
                 LANG_BQ_INFRARED: 'Infragorrien sentsorea',
                 LANG_BQ_INFRARED_PIN: 'PIN#',
                 LANG_BQ_INFRARED_TOOLTIP: 'Infragorrien sentsoreak neurtutako balio digitala bueltatzen du',
@@ -1024,26 +1024,26 @@
                 LANG_BQ_PHOTORESISTOR: 'Argi-sentsorea',
                 LANG_BQ_PHOTORESISTOR_PIN: 'PIN#',
                 LANG_BQ_PHOTORESISTOR_TOOLTIP: 'Fotorresistentziak neurtutako balio analogikoa bueltatzen du.',
-                LANG_BQ_PIEZO_BUZZER: 'Burrunbagailua',
-                LANG_BQ_PIEZO_BUZZER_PIN: 'PIN#',
-                LANG_BQ_PIEZO_BUZZER_TONE: 'TONUA',
-                LANG_BQ_PIEZO_BUZZER_DO: 'DO',
-                LANG_BQ_PIEZO_BUZZER_RE: 'RE',
-                LANG_BQ_PIEZO_BUZZER_MI: 'MI',
-                LANG_BQ_PIEZO_BUZZER_FA: 'FA',
-                LANG_BQ_PIEZO_BUZZER_SOL: 'SOL',
-                LANG_BQ_PIEZO_BUZZER_LA: 'LA',
-                LANG_BQ_PIEZO_BUZZER_SI: 'SI',
-                LANG_BQ_PIEZO_BUZZER_DURATION: 'Iraupena [ms]',
-                LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Burrunbagailu piezoeléctrikoa',
+                // LANG_BQ_PIEZO_BUZZER: 'Burrunbagailua',
+                // LANG_BQ_PIEZO_BUZZER_PIN: 'PIN#',
+                // LANG_BQ_PIEZO_BUZZER_TONE: 'TONUA',
+                // LANG_BQ_PIEZO_BUZZER_DO: 'DO',
+                // LANG_BQ_PIEZO_BUZZER_RE: 'RE',
+                // LANG_BQ_PIEZO_BUZZER_MI: 'MI',
+                // LANG_BQ_PIEZO_BUZZER_FA: 'FA',
+                // LANG_BQ_PIEZO_BUZZER_SOL: 'SOL',
+                // LANG_BQ_PIEZO_BUZZER_LA: 'LA',
+                // LANG_BQ_PIEZO_BUZZER_SI: 'SI',
+                // LANG_BQ_PIEZO_BUZZER_DURATION: 'Iraupena [ms]',
+                // LANG_BQ_PIEZO_BUZZER_TOOLTIP: 'Burrunbagailu piezoeléctrikoa',
                 LANG_BQ_PIEZO_BUZZERAV: 'Burrunbagailu aurreratua',
                 LANG_BQ_PIEZO_BUZZERAV_PIN: 'PIN#',
                 LANG_BQ_PIEZO_BUZZERAV_TONE: 'TONUA',
                 LANG_BQ_PIEZO_BUZZERAV_DURATION: 'Iraupena [ms]',
                 LANG_BQ_PIEZO_BUZZERAV_TOOLTIP: 'Burrunbagailu aurreratua',
-                LANG_BQ_POTENTIOMETER: 'Potentziometroa',
-                LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
-                LANG_BQ_POTENTIOMETER_TOOLTIP: 'Potentziometroak neurtutako balio analogikoa bueltatzen du',
+                // LANG_BQ_POTENTIOMETER: 'Potentziometroa',
+                // LANG_BQ_POTENTIOMETER_PIN: 'PIN#',
+                // LANG_BQ_POTENTIOMETER_TOOLTIP: 'Potentziometroak neurtutako balio analogikoa bueltatzen du',
                 //LCD blocks:
                 // LANG_CATEGORY_LCD: 'LCD blokeak',
                 // LANG_LCD_DEF: 'LCD (2x16)',
@@ -3613,94 +3613,94 @@
         /* global Blockly, options, JST, RoboBlocks */
         /* jshint sub:true */
 
-        /**
-         * bq_buttons code generation
-         * @return {String} Code generated with block parameters
-         */
+        // /**
+        //  * bq_buttons code generation
+        //  * @return {String} Code generated with block parameters
+        //  */
+        //
+        //
+        // Blockly.Arduino.bq_buttons = function() {
+        //     var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC);
+        //     var code_btn1 = Blockly.Arduino.statementToCode(this, 'BUTN1');
+        //     var code_btn2 = Blockly.Arduino.statementToCode(this, 'BUTN2');
+        //     var code_btn3 = Blockly.Arduino.statementToCode(this, 'BUTN3');
+        //     var code_btn4 = Blockly.Arduino.statementToCode(this, 'BUTN4');
+        //     var code_btn5 = Blockly.Arduino.statementToCode(this, 'BUTN5');
+        //
+        //     var code = '';
+        //     var a = RoboBlocks.findPinMode(dropdown_pin);
+        //     code += a['code'];
+        //     dropdown_pin = a['pin'];
+        //
+        //
+        //     code_btn1 = code_btn1.replace(/&quot;/g, '"');
+        //     code_btn2 = code_btn2.replace(/&quot;/g, '"');
+        //     code_btn3 = code_btn3.replace(/&quot;/g, '"');
+        //     code_btn4 = code_btn4.replace(/&quot;/g, '"');
+        //     code_btn5 = code_btn5.replace(/&quot;/g, '"');
+        //
+        //     // code_btn1=code_btn1.replace(/&amp;/g,'');
+        //     // code_btn2=code_btn2.replace(/&amp;/g,'');
+        //     // code_btn3=code_btn3.replace(/&amp;/g,'');
+        //     // code_btn4=code_btn4.replace(/&amp;/g,'');
+        //     // code_btn5=code_btn5.replace(/&amp;/g,'');
+        //
+        //     Blockly.Arduino.definitions_['declare_var_define_buttons' + dropdown_pin] = JST['bq_buttons_definitions_variables']({});
+        //     Blockly.Arduino.definitions_['define_buttons' + dropdown_pin] = JST['bq_buttons_definitions']({
+        //         'dropdown_pin': dropdown_pin
+        //     });
+        //
+        //
+        //     code += JST['bq_buttons']({
+        //         'dropdown_pin': dropdown_pin,
+        //         'code_btn1': code_btn1,
+        //         'code_btn2': code_btn2,
+        //         'code_btn3': code_btn3,
+        //         'code_btn4': code_btn4,
+        //         'code_btn5': code_btn5
+        //     });
+        //
+        //     return code;
+        // };
 
-
-        Blockly.Arduino.bq_buttons = function() {
-            var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC);
-            var code_btn1 = Blockly.Arduino.statementToCode(this, 'BUTN1');
-            var code_btn2 = Blockly.Arduino.statementToCode(this, 'BUTN2');
-            var code_btn3 = Blockly.Arduino.statementToCode(this, 'BUTN3');
-            var code_btn4 = Blockly.Arduino.statementToCode(this, 'BUTN4');
-            var code_btn5 = Blockly.Arduino.statementToCode(this, 'BUTN5');
-
-            var code = '';
-            var a = RoboBlocks.findPinMode(dropdown_pin);
-            code += a['code'];
-            dropdown_pin = a['pin'];
-
-
-            code_btn1 = code_btn1.replace(/&quot;/g, '"');
-            code_btn2 = code_btn2.replace(/&quot;/g, '"');
-            code_btn3 = code_btn3.replace(/&quot;/g, '"');
-            code_btn4 = code_btn4.replace(/&quot;/g, '"');
-            code_btn5 = code_btn5.replace(/&quot;/g, '"');
-
-            // code_btn1=code_btn1.replace(/&amp;/g,'');
-            // code_btn2=code_btn2.replace(/&amp;/g,'');
-            // code_btn3=code_btn3.replace(/&amp;/g,'');
-            // code_btn4=code_btn4.replace(/&amp;/g,'');
-            // code_btn5=code_btn5.replace(/&amp;/g,'');
-
-            Blockly.Arduino.definitions_['declare_var_define_buttons' + dropdown_pin] = JST['bq_buttons_definitions_variables']({});
-            Blockly.Arduino.definitions_['define_buttons' + dropdown_pin] = JST['bq_buttons_definitions']({
-                'dropdown_pin': dropdown_pin
-            });
-
-
-            code += JST['bq_buttons']({
-                'dropdown_pin': dropdown_pin,
-                'code_btn1': code_btn1,
-                'code_btn2': code_btn2,
-                'code_btn3': code_btn3,
-                'code_btn4': code_btn4,
-                'code_btn5': code_btn5
-            });
-
-            return code;
-        };
-
-        /**
-         * bq_buttons block definition
-         * @type {Object}
-         */
-        Blockly.Blocks.bq_buttons = {
-            category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
-            tags: ['buttons'],
-            helpUrl: RoboBlocks.URL_BUTTONS,
-            /**
-             * bq_buttons initialization
-             */
-            init: function() {
-                this.setColour(RoboBlocks.LANG_COLOUR_BQ);
-                this.appendValueInput('PIN')
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS'))
-                    .appendField(new Blockly.FieldImage('img/blocks/bqmod10.png', 336 * options.zoom, 176 * options.zoom))
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_PIN'))
-                    .setCheck(Number);
-                this.appendStatementInput('BUTN1')
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_A'));
-                this.appendStatementInput('BUTN2')
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_B'));
-                this.appendStatementInput('BUTN3')
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_C'));
-                this.appendStatementInput('BUTN4')
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_D'));
-                this.appendStatementInput('BUTN5')
-                    .setAlign(Blockly.ALIGN_RIGHT)
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_E'));
-                this.setPreviousStatement(true, null);
-                this.setNextStatement(true, null);
-                this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_TOOLTIP'));
-            }
-        };
+        // /**
+        //  * bq_buttons block definition
+        //  * @type {Object}
+        //  */
+        // Blockly.Blocks.bq_buttons = {
+        //     category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
+        //     tags: ['buttons'],
+        //     helpUrl: RoboBlocks.URL_BUTTONS,
+        //     /**
+        //      * bq_buttons initialization
+        //      */
+        //     init: function() {
+        //         this.setColour(RoboBlocks.LANG_COLOUR_BQ);
+        //         this.appendValueInput('PIN')
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS'))
+        //             .appendField(new Blockly.FieldImage('img/blocks/bqmod10.png', 336 * options.zoom, 176 * options.zoom))
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_PIN'))
+        //             .setCheck(Number);
+        //         this.appendStatementInput('BUTN1')
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_A'));
+        //         this.appendStatementInput('BUTN2')
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_B'));
+        //         this.appendStatementInput('BUTN3')
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_C'));
+        //         this.appendStatementInput('BUTN4')
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_D'));
+        //         this.appendStatementInput('BUTN5')
+        //             .setAlign(Blockly.ALIGN_RIGHT)
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_BUTTON_E'));
+        //         this.setPreviousStatement(true, null);
+        //         this.setNextStatement(true, null);
+        //         this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_BUTTONS_TOOLTIP'));
+        //     }
+        // };
 
         // Source: src/blocks/bq_infrared/bq_infrared.js
         /* global Blockly, options,  JST, RoboBlocks */
@@ -4084,46 +4084,46 @@
         /* global Blockly, options,JST, RoboBlocks */
         /* jshint sub:true */
 
-        /**
-         * bq_potentiometer code generation
-         * @return {String} Code generated with block parameters
-         */
-        Blockly.Arduino.bq_potentiometer = function() {
-            var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC);
-            var code = '';
-            var a = RoboBlocks.findPinMode(dropdown_pin);
-            code += a['code'];
-            dropdown_pin = a['pin'];
-
-            code += JST['bq_potentiometer']({
-                'dropdown_pin': dropdown_pin
-            });
-
-            return [code, Blockly.Arduino.ORDER_ATOMIC];
-        };
-
-        /**
-         * bq_potentiometer block definition
-         * @type {Object}
-         */
-        Blockly.Blocks.bq_potentiometer = {
-            category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
-            tags: ['potentiometer'],
-            helpUrl: RoboBlocks.URL_POTENTIOMETER,
-            /**
-             * bq_potentiometer initialization
-             */
-            init: function() {
-                this.setColour(RoboBlocks.LANG_COLOUR_BQ);
-                this.appendValueInput('PIN')
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_POTENTIOMETER'))
-                    .appendField(new Blockly.FieldImage('img/blocks/bqmod06.png', 208 * options.zoom, 139 * options.zoom))
-                    .appendField(RoboBlocks.locales.getKey('LANG_BQ_POTENTIOMETER_PIN'))
-                    .setCheck(Number);
-                this.setOutput(true, Number);
-                this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_POTENTIOMETER_TOOLTIP'));
-            }
-        };
+        // /**
+        //  * bq_potentiometer code generation
+        //  * @return {String} Code generated with block parameters
+        //  */
+        // Blockly.Arduino.bq_potentiometer = function() {
+        //     var dropdown_pin = Blockly.Arduino.valueToCode(this, 'PIN', Blockly.Arduino.ORDER_ATOMIC);
+        //     var code = '';
+        //     var a = RoboBlocks.findPinMode(dropdown_pin);
+        //     code += a['code'];
+        //     dropdown_pin = a['pin'];
+        //
+        //     code += JST['bq_potentiometer']({
+        //         'dropdown_pin': dropdown_pin
+        //     });
+        //
+        //     return [code, Blockly.Arduino.ORDER_ATOMIC];
+        // };
+        //
+        // /**
+        //  * bq_potentiometer block definition
+        //  * @type {Object}
+        //  */
+        // Blockly.Blocks.bq_potentiometer = {
+        //     category: RoboBlocks.locales.getKey('LANG_CATEGORY_BQ'),
+        //     tags: ['potentiometer'],
+        //     helpUrl: RoboBlocks.URL_POTENTIOMETER,
+        //     /**
+        //      * bq_potentiometer initialization
+        //      */
+        //     init: function() {
+        //         this.setColour(RoboBlocks.LANG_COLOUR_BQ);
+        //         this.appendValueInput('PIN')
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_POTENTIOMETER'))
+        //             .appendField(new Blockly.FieldImage('img/blocks/bqmod06.png', 208 * options.zoom, 139 * options.zoom))
+        //             .appendField(RoboBlocks.locales.getKey('LANG_BQ_POTENTIOMETER_PIN'))
+        //             .setCheck(Number);
+        //         this.setOutput(true, Number);
+        //         this.setTooltip(RoboBlocks.locales.getKey('LANG_BQ_POTENTIOMETER_TOOLTIP'));
+        //     }
+        // };
 
         // Source: src/blocks/bt_serial_available/bt_serial_available.js
         /* global Blockly, JST, RoboBlocks */
