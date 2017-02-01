@@ -8,7 +8,7 @@ Visual IDE aid for kids, mainly for programming Pinchy by [Bilbao Dynamics](http
 
 ## How to use it?
 
-You can use it online just by accesing to [this](https://cdn.rawgit.com/javierdemartin/BDBloqs/19e5f362/html/index.html) link.
+You can use it online just by accesing to [this](https://rawgit.com/javierdemartin/BDBloqs/master/html/index.html) link.
 
 ## Licensing
 
