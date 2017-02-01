@@ -1,5 +1,9 @@
 # BD Bloqs
 
+<p>
+<img src = "https://raw.githubusercontent.com/javierdemartin/BDBloqs/master/screenshots/MainPage.png" alt = "Demo" align = "middle">
+</p>
+
 Visual IDE aid for kids, mainly for programming Pinchy by [Bilbao Dynamics](http://bilbaodynamics.com).
 
 # ONLINE USE
